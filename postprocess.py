@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time ： 2024/7/3 8:02
-@Auth ： Bin Zhang
+
 @File ：postprocess.py
 @IDE ：PyCharm
 """

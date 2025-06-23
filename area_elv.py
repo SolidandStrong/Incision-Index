@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time ： 2024/9/28 17:03
-@Auth ： Bin Zhang
+
 @File ：area_elv.py
 @IDE ：PyCharm
 """
